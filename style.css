@@ -9,13 +9,17 @@
     top:25%;
     left: 3%;
     font-size: 700%;
+    background-image: none;
+    background: none;
+    color: rgb(255, 255, 255);
 }
 #titleee:hover{
     font-size: 800%;
     background-color: white;
-    color: black;
+    color: rgb(3, 3, 2);
     padding-left:15px ;
     padding-right: 15px;
+
 }
 #firstcb{
     position: absolute;
@@ -34,7 +38,7 @@
     background-color: rgb(255, 0, 0);
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     top: 0.5%;
     animation: balls 5s 0.2s infinite forwards;
 }
@@ -43,7 +47,7 @@
 
 #firstcb-1 {
     position: absolute;
-    background-color: #baba62;
+    background-color: #02e97c;
     height: 20%;
     width: 9px;
     left: 9px;
@@ -54,7 +58,7 @@
 }
 #firstcbcircle-1 {
     position: absolute;
-    background-color: #baba62;
+    background-color: #02e97c;
     border-radius: 100%;
     height: 2%;
     width: 9px;
@@ -64,9 +68,9 @@
 }
 #firstcb-2 {
     position: absolute;
-    background-color: #6fc2e1;
+    background-color: #c07b93;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 18px;
     top: -19%;
     animation: lines 5s 0.1s infinite forwards;
@@ -75,19 +79,19 @@
 }
 #firstcbcircle-2 {
     position: absolute;
-    background-color: #6fc2e1;
+    background-color: #c07b93;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 18px;
     top: 0.5%;
     animation: balls 5s 0.1s infinite forwards;
 }
 #firstcb-3 {
     position: absolute;
-    background-color: #7126ce;
+    background-color: #c30a91;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 27px;
     top: -19%;
     animation: lines 5s 0.2s infinite forwards;
@@ -96,19 +100,19 @@
 }
 #firstcbcircle-3 {
     position: absolute;
-    background-color: #7126ce;
+    background-color: #c30a91;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 27px;
     top: 0.5%;
     animation: balls 5s 0.2s infinite forwards;
 }
 #firstcb-4 {
     position: absolute;
-    background-color: #a6ac82;
+    background-color: #dc64d8;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 36px;
     top: -19%;
     animation: lines 5s 0.3s infinite forwards;
@@ -117,19 +121,19 @@
 }
 #firstcbcircle-4 {
     position: absolute;
-    background-color: #a6ac82;
+    background-color: #dc64d8;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 36px;
     top: 0.5%;
     animation: balls 5s 0.3s infinite forwards;
 }
 #firstcb-5 {
     position: absolute;
-    background-color: #74efb1;
+    background-color: #cba0f3;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 45px;
     top: -19%;
     animation: lines 5s 0.4s infinite forwards;
@@ -138,19 +142,19 @@
 }
 #firstcbcircle-5 {
     position: absolute;
-    background-color: #74efb1;
+    background-color: #cba0f3;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 45px;
     top: 0.5%;
     animation: balls 5s 0.4s infinite forwards;
 }
 #firstcb-6 {
     position: absolute;
-    background-color: #a003ee;
+    background-color: #c77548;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 54px;
     top: -19%;
     animation: lines 5s 0.5s infinite forwards;
@@ -159,19 +163,19 @@
 }
 #firstcbcircle-6 {
     position: absolute;
-    background-color: #a003ee;
+    background-color: #c77548;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 54px;
     top: 0.5%;
     animation: balls 5s 0.5s infinite forwards;
 }
 #firstcb-7 {
     position: absolute;
-    background-color: #5441ef;
+    background-color: #24b47d;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 63px;
     top: -19%;
     animation: lines 5s 0.6s infinite forwards;
@@ -180,19 +184,19 @@
 }
 #firstcbcircle-7 {
     position: absolute;
-    background-color: #5441ef;
+    background-color: #24b47d;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 63px;
     top: 0.5%;
     animation: balls 5s 0.6s infinite forwards;
 }
 #firstcb-8 {
     position: absolute;
-    background-color: #5c43a9;
+    background-color: #ac4a0e;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 72px;
     top: -19%;
     animation: lines 5s 0.7s infinite forwards;
@@ -201,19 +205,19 @@
 }
 #firstcbcircle-8 {
     position: absolute;
-    background-color: #5c43a9;
+    background-color: #ac4a0e;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 72px;
     top: 0.5%;
     animation: balls 5s 0.7s infinite forwards;
 }
 #firstcb-9 {
     position: absolute;
-    background-color: #3ce6cb;
+    background-color: #4a3d51;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 81px;
     top: -19%;
     animation: lines 5s 0.8s infinite forwards;
@@ -222,19 +226,19 @@
 }
 #firstcbcircle-9 {
     position: absolute;
-    background-color: #3ce6cb;
+    background-color: #4a3d51;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 81px;
     top: 0.5%;
     animation: balls 5s 0.8s infinite forwards;
 }
 #firstcb-10 {
     position: absolute;
-    background-color: #033773;
+    background-color: #1ecec5;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 90px;
     top: -19%;
     animation: lines 5s 0.9s infinite forwards;
@@ -243,19 +247,19 @@
 }
 #firstcbcircle-10 {
     position: absolute;
-    background-color: #033773;
+    background-color: #1ecec5;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 90px;
     top: 0.5%;
     animation: balls 5s 0.9s infinite forwards;
 }
 #firstcb-11 {
     position: absolute;
-    background-color: #7f2e58;
+    background-color: #f33a85;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 99px;
     top: -19%;
     animation: lines 5s 1s infinite forwards;
@@ -264,19 +268,19 @@
 }
 #firstcbcircle-11 {
     position: absolute;
-    background-color: #7f2e58;
+    background-color: #f33a85;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 99px;
     top: 0.5%;
     animation: balls 5s 1s infinite forwards;
 }
 #firstcb-12 {
     position: absolute;
-    background-color: #4a625e;
+    background-color: #7a088a;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 108px;
     top: -19%;
     animation: lines 5s 1.1s infinite forwards;
@@ -285,19 +289,19 @@
 }
 #firstcbcircle-12 {
     position: absolute;
-    background-color: #4a625e;
+    background-color: #7a088a;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 108px;
     top: 0.5%;
     animation: balls 5s 1.1s infinite forwards;
 }
 #firstcb-13 {
     position: absolute;
-    background-color: #45d140;
+    background-color: #f55aeb;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 117px;
     top: -19%;
     animation: lines 5s 1.2s infinite forwards;
@@ -306,19 +310,19 @@
 }
 #firstcbcircle-13 {
     position: absolute;
-    background-color: #45d140;
+    background-color: #f55aeb;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 117px;
     top: 0.5%;
     animation: balls 5s 1.2s infinite forwards;
 }
 #firstcb-14 {
     position: absolute;
-    background-color: #0b3eb5;
+    background-color: #94b901;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 126px;
     top: -19%;
     animation: lines 5s 1.3s infinite forwards;
@@ -327,19 +331,19 @@
 }
 #firstcbcircle-14 {
     position: absolute;
-    background-color: #0b3eb5;
+    background-color: #94b901;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 126px;
     top: 0.5%;
     animation: balls 5s 1.3s infinite forwards;
 }
 #firstcb-15 {
     position: absolute;
-    background-color: #6ee4b7;
+    background-color: #4d455d;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 135px;
     top: -19%;
     animation: lines 5s 1.4s infinite forwards;
@@ -348,19 +352,19 @@
 }
 #firstcbcircle-15 {
     position: absolute;
-    background-color: #6ee4b7;
+    background-color: #4d455d;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 135px;
     top: 0.5%;
     animation: balls 5s 1.4s infinite forwards;
 }
 #firstcb-16 {
     position: absolute;
-    background-color: #33ff92;
+    background-color: #659dc5;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 144px;
     top: -19%;
     animation: lines 5s 1.5s infinite forwards;
@@ -369,19 +373,19 @@
 }
 #firstcbcircle-16 {
     position: absolute;
-    background-color: #33ff92;
+    background-color: #659dc5;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 144px;
     top: 0.5%;
     animation: balls 5s 1.5s infinite forwards;
 }
 #firstcb-17 {
     position: absolute;
-    background-color: #bdc168;
+    background-color: #309f94;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 153px;
     top: -19%;
     animation: lines 5s 1.6s infinite forwards;
@@ -390,19 +394,19 @@
 }
 #firstcbcircle-17 {
     position: absolute;
-    background-color: #bdc168;
+    background-color: #309f94;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 153px;
     top: 0.5%;
     animation: balls 5s 1.6s infinite forwards;
 }
 #firstcb-18 {
     position: absolute;
-    background-color: #6f1bba;
+    background-color: #4accae;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 162px;
     top: -19%;
     animation: lines 5s 1.7s infinite forwards;
@@ -411,19 +415,19 @@
 }
 #firstcbcircle-18 {
     position: absolute;
-    background-color: #6f1bba;
+    background-color: #4accae;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 162px;
     top: 0.5%;
     animation: balls 5s 1.7s infinite forwards;
 }
 #firstcb-19 {
     position: absolute;
-    background-color: #9ce65e;
+    background-color: #8f7522;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 171px;
     top: -19%;
     animation: lines 5s 1.8s infinite forwards;
@@ -432,19 +436,19 @@
 }
 #firstcbcircle-19 {
     position: absolute;
-    background-color: #9ce65e;
+    background-color: #8f7522;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 171px;
     top: 0.5%;
     animation: balls 5s 1.8s infinite forwards;
 }
 #firstcb-20 {
     position: absolute;
-    background-color: #a8680d;
+    background-color: #143c20;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 180px;
     top: -19%;
     animation: lines 5s 1.9s infinite forwards;
@@ -453,19 +457,19 @@
 }
 #firstcbcircle-20 {
     position: absolute;
-    background-color: #a8680d;
+    background-color: #143c20;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 180px;
     top: 0.5%;
     animation: balls 5s 1.9s infinite forwards;
 }
 #firstcb-21 {
     position: absolute;
-    background-color: #97d256;
+    background-color: #8c597a;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 189px;
     top: -19%;
     animation: lines 5s 2s infinite forwards;
@@ -474,19 +478,19 @@
 }
 #firstcbcircle-21 {
     position: absolute;
-    background-color: #97d256;
+    background-color: #8c597a;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 189px;
     top: 0.5%;
     animation: balls 5s 2s infinite forwards;
 }
 #firstcb-22 {
     position: absolute;
-    background-color: #174535;
+    background-color: #a99970;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 198px;
     top: -19%;
     animation: lines 5s 2.1s infinite forwards;
@@ -495,19 +499,19 @@
 }
 #firstcbcircle-22 {
     position: absolute;
-    background-color: #174535;
+    background-color: #a99970;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 198px;
     top: 0.5%;
     animation: balls 5s 2.1s infinite forwards;
 }
 #firstcb-23 {
     position: absolute;
-    background-color: #98875c;
+    background-color: #682a96;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 207px;
     top: -19%;
     animation: lines 5s 2.2s infinite forwards;
@@ -516,19 +520,19 @@
 }
 #firstcbcircle-23 {
     position: absolute;
-    background-color: #98875c;
+    background-color: #682a96;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 207px;
     top: 0.5%;
     animation: balls 5s 2.2s infinite forwards;
 }
 #firstcb-24 {
     position: absolute;
-    background-color: #b037da;
+    background-color: #4f0417;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 216px;
     top: -19%;
     animation: lines 5s 2.3s infinite forwards;
@@ -537,19 +541,19 @@
 }
 #firstcbcircle-24 {
     position: absolute;
-    background-color: #b037da;
+    background-color: #4f0417;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 216px;
     top: 0.5%;
     animation: balls 5s 2.3s infinite forwards;
 }
 #firstcb-25 {
     position: absolute;
-    background-color: #6ffbfa;
+    background-color: #90f3ab;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 225px;
     top: -19%;
     animation: lines 5s 2.4s infinite forwards;
@@ -558,19 +562,19 @@
 }
 #firstcbcircle-25 {
     position: absolute;
-    background-color: #6ffbfa;
+    background-color: #90f3ab;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 225px;
     top: 0.5%;
     animation: balls 5s 2.4s infinite forwards;
 }
 #firstcb-26 {
     position: absolute;
-    background-color: #7dea89;
+    background-color: #4dd50f;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 234px;
     top: -19%;
     animation: lines 5s 2.5s infinite forwards;
@@ -579,19 +583,19 @@
 }
 #firstcbcircle-26 {
     position: absolute;
-    background-color: #7dea89;
+    background-color: #4dd50f;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 234px;
     top: 0.5%;
     animation: balls 5s 2.5s infinite forwards;
 }
 #firstcb-27 {
     position: absolute;
-    background-color: #089ac8;
+    background-color: #8a87ec;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 243px;
     top: -19%;
     animation: lines 5s 2.6s infinite forwards;
@@ -600,19 +604,19 @@
 }
 #firstcbcircle-27 {
     position: absolute;
-    background-color: #089ac8;
+    background-color: #8a87ec;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 243px;
     top: 0.5%;
     animation: balls 5s 2.6s infinite forwards;
 }
 #firstcb-28 {
     position: absolute;
-    background-color: #38044d;
+    background-color: #65b588;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 252px;
     top: -19%;
     animation: lines 5s 2.7s infinite forwards;
@@ -621,19 +625,19 @@
 }
 #firstcbcircle-28 {
     position: absolute;
-    background-color: #38044d;
+    background-color: #65b588;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 252px;
     top: 0.5%;
     animation: balls 5s 2.7s infinite forwards;
 }
 #firstcb-29 {
     position: absolute;
-    background-color: #5e4fd5;
+    background-color: #cb8a42;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 261px;
     top: -19%;
     animation: lines 5s 2.8s infinite forwards;
@@ -642,19 +646,19 @@
 }
 #firstcbcircle-29 {
     position: absolute;
-    background-color: #5e4fd5;
+    background-color: #cb8a42;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 261px;
     top: 0.5%;
     animation: balls 5s 2.8s infinite forwards;
 }
 #firstcb-30 {
     position: absolute;
-    background-color: #5464f7;
+    background-color: #9e036f;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 270px;
     top: -19%;
     animation: lines 5s 2.9s infinite forwards;
@@ -663,19 +667,19 @@
 }
 #firstcbcircle-30 {
     position: absolute;
-    background-color: #5464f7;
+    background-color: #9e036f;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 270px;
     top: 0.5%;
     animation: balls 5s 2.9s infinite forwards;
 }
 #firstcb-31 {
     position: absolute;
-    background-color: #5bd73a;
+    background-color: #f2c76f;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 279px;
     top: -19%;
     animation: lines 5s 3s infinite forwards;
@@ -684,19 +688,19 @@
 }
 #firstcbcircle-31 {
     position: absolute;
-    background-color: #5bd73a;
+    background-color: #f2c76f;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 279px;
     top: 0.5%;
     animation: balls 5s 3s infinite forwards;
 }
 #firstcb-32 {
     position: absolute;
-    background-color: #eea210;
+    background-color: #6e3dea;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 288px;
     top: -19%;
     animation: lines 5s 3.1s infinite forwards;
@@ -705,19 +709,19 @@
 }
 #firstcbcircle-32 {
     position: absolute;
-    background-color: #eea210;
+    background-color: #6e3dea;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 288px;
     top: 0.5%;
     animation: balls 5s 3.1s infinite forwards;
 }
 #firstcb-33 {
     position: absolute;
-    background-color: #021c56;
+    background-color: #f6a65d;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 297px;
     top: -19%;
     animation: lines 5s 3.2s infinite forwards;
@@ -726,19 +730,19 @@
 }
 #firstcbcircle-33 {
     position: absolute;
-    background-color: #021c56;
+    background-color: #f6a65d;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 297px;
     top: 0.5%;
     animation: balls 5s 3.2s infinite forwards;
 }
 #firstcb-34 {
     position: absolute;
-    background-color: #536abd;
+    background-color: #d2d161;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 306px;
     top: -19%;
     animation: lines 5s 3.3s infinite forwards;
@@ -747,19 +751,19 @@
 }
 #firstcbcircle-34 {
     position: absolute;
-    background-color: #536abd;
+    background-color: #d2d161;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 306px;
     top: 0.5%;
     animation: balls 5s 3.3s infinite forwards;
 }
 #firstcb-35 {
     position: absolute;
-    background-color: #077868;
+    background-color: #9149f7;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 315px;
     top: -19%;
     animation: lines 5s 3.4s infinite forwards;
@@ -768,19 +772,19 @@
 }
 #firstcbcircle-35 {
     position: absolute;
-    background-color: #077868;
+    background-color: #9149f7;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 315px;
     top: 0.5%;
     animation: balls 5s 3.4s infinite forwards;
 }
 #firstcb-36 {
     position: absolute;
-    background-color: #54ba2b;
+    background-color: #dcecc6;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 324px;
     top: -19%;
     animation: lines 5s 3.5s infinite forwards;
@@ -789,19 +793,19 @@
 }
 #firstcbcircle-36 {
     position: absolute;
-    background-color: #54ba2b;
+    background-color: #dcecc6;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 324px;
     top: 0.5%;
     animation: balls 5s 3.5s infinite forwards;
 }
 #firstcb-37 {
     position: absolute;
-    background-color: #5b5666;
+    background-color: #9beb4a;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 333px;
     top: -19%;
     animation: lines 5s 3.6s infinite forwards;
@@ -810,19 +814,19 @@
 }
 #firstcbcircle-37 {
     position: absolute;
-    background-color: #5b5666;
+    background-color: #9beb4a;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 333px;
     top: 0.5%;
     animation: balls 5s 3.6s infinite forwards;
 }
 #firstcb-38 {
     position: absolute;
-    background-color: #20d8bf;
+    background-color: #53a36a;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 342px;
     top: -19%;
     animation: lines 5s 3.7s infinite forwards;
@@ -831,19 +835,19 @@
 }
 #firstcbcircle-38 {
     position: absolute;
-    background-color: #20d8bf;
+    background-color: #53a36a;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 342px;
     top: 0.5%;
     animation: balls 5s 3.7s infinite forwards;
 }
 #firstcb-39 {
     position: absolute;
-    background-color: #071dcc;
+    background-color: #a4e87f;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 351px;
     top: -19%;
     animation: lines 5s 3.8s infinite forwards;
@@ -852,19 +856,19 @@
 }
 #firstcbcircle-39 {
     position: absolute;
-    background-color: #071dcc;
+    background-color: #a4e87f;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 351px;
     top: 0.5%;
     animation: balls 5s 3.8s infinite forwards;
 }
 #firstcb-40 {
     position: absolute;
-    background-color: #279246;
+    background-color: #c953f9;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 360px;
     top: -19%;
     animation: lines 5s 3.9s infinite forwards;
@@ -873,19 +877,19 @@
 }
 #firstcbcircle-40 {
     position: absolute;
-    background-color: #279246;
+    background-color: #c953f9;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 360px;
     top: 0.5%;
     animation: balls 5s 3.9s infinite forwards;
 }
 #firstcb-41 {
     position: absolute;
-    background-color: #e02d2c;
+    background-color: #59ab83;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 369px;
     top: -19%;
     animation: lines 5s 4s infinite forwards;
@@ -894,19 +898,19 @@
 }
 #firstcbcircle-41 {
     position: absolute;
-    background-color: #e02d2c;
+    background-color: #59ab83;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 369px;
     top: 0.5%;
     animation: balls 5s 4s infinite forwards;
 }
 #firstcb-42 {
     position: absolute;
-    background-color: #c6ca6d;
+    background-color: #040acb;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 378px;
     top: -19%;
     animation: lines 5s 4.1s infinite forwards;
@@ -915,19 +919,19 @@
 }
 #firstcbcircle-42 {
     position: absolute;
-    background-color: #c6ca6d;
+    background-color: #040acb;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 378px;
     top: 0.5%;
     animation: balls 5s 4.1s infinite forwards;
 }
 #firstcb-43 {
     position: absolute;
-    background-color: #595646;
+    background-color: #dd7c66;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 387px;
     top: -19%;
     animation: lines 5s 4.2s infinite forwards;
@@ -936,19 +940,19 @@
 }
 #firstcbcircle-43 {
     position: absolute;
-    background-color: #595646;
+    background-color: #dd7c66;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 387px;
     top: 0.5%;
     animation: balls 5s 4.2s infinite forwards;
 }
 #firstcb-44 {
     position: absolute;
-    background-color: #264505;
+    background-color: #8a53e8;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 396px;
     top: -19%;
     animation: lines 5s 4.3s infinite forwards;
@@ -957,19 +961,19 @@
 }
 #firstcbcircle-44 {
     position: absolute;
-    background-color: #264505;
+    background-color: #8a53e8;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 396px;
     top: 0.5%;
     animation: balls 5s 4.3s infinite forwards;
 }
 #firstcb-45 {
     position: absolute;
-    background-color: #f80315;
+    background-color: #63ac66;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 405px;
     top: -19%;
     animation: lines 5s 4.4s infinite forwards;
@@ -978,19 +982,19 @@
 }
 #firstcbcircle-45 {
     position: absolute;
-    background-color: #f80315;
+    background-color: #63ac66;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 405px;
     top: 0.5%;
     animation: balls 5s 4.4s infinite forwards;
 }
 #firstcb-46 {
     position: absolute;
-    background-color: #2998c9;
+    background-color: #a3a884;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 414px;
     top: -19%;
     animation: lines 5s 4.5s infinite forwards;
@@ -999,19 +1003,19 @@
 }
 #firstcbcircle-46 {
     position: absolute;
-    background-color: #2998c9;
+    background-color: #a3a884;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 414px;
     top: 0.5%;
     animation: balls 5s 4.5s infinite forwards;
 }
 #firstcb-47 {
     position: absolute;
-    background-color: #fa07d4;
+    background-color: #b970f4;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 423px;
     top: -19%;
     animation: lines 5s 4.6s infinite forwards;
@@ -1020,19 +1024,19 @@
 }
 #firstcbcircle-47 {
     position: absolute;
-    background-color: #fa07d4;
+    background-color: #b970f4;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 423px;
     top: 0.5%;
     animation: balls 5s 4.6s infinite forwards;
 }
 #firstcb-48 {
     position: absolute;
-    background-color: #596979;
+    background-color: #b8dc03;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 432px;
     top: -19%;
     animation: lines 5s 4.7s infinite forwards;
@@ -1041,19 +1045,19 @@
 }
 #firstcbcircle-48 {
     position: absolute;
-    background-color: #596979;
+    background-color: #b8dc03;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 432px;
     top: 0.5%;
     animation: balls 5s 4.7s infinite forwards;
 }
 #firstcb-49 {
     position: absolute;
-    background-color: #c20793;
+    background-color: #dd21bd;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 441px;
     top: -19%;
     animation: lines 5s 4.8s infinite forwards;
@@ -1062,19 +1066,19 @@
 }
 #firstcbcircle-49 {
     position: absolute;
-    background-color: #c20793;
+    background-color: #dd21bd;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 441px;
     top: 0.5%;
     animation: balls 5s 4.8s infinite forwards;
 }
 #firstcb-50 {
     position: absolute;
-    background-color: #f22852;
+    background-color: #e259b8;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 450px;
     top: -19%;
     animation: lines 5s 4.9s infinite forwards;
@@ -1083,19 +1087,19 @@
 }
 #firstcbcircle-50 {
     position: absolute;
-    background-color: #f22852;
+    background-color: #e259b8;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 450px;
     top: 0.5%;
     animation: balls 5s 4.9s infinite forwards;
 }
 #firstcb-51 {
     position: absolute;
-    background-color: #4ab097;
+    background-color: #f15aa7;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 459px;
     top: -19%;
     animation: lines 5s 5s infinite forwards;
@@ -1104,19 +1108,19 @@
 }
 #firstcbcircle-51 {
     position: absolute;
-    background-color: #4ab097;
+    background-color: #f15aa7;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 459px;
     top: 0.5%;
     animation: balls 5s 5s infinite forwards;
 }
 #firstcb-52 {
     position: absolute;
-    background-color: #d5788d;
+    background-color: #33eb16;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 468px;
     top: -19%;
     animation: lines 5s 5.1s infinite forwards;
@@ -1125,19 +1129,19 @@
 }
 #firstcbcircle-52 {
     position: absolute;
-    background-color: #d5788d;
+    background-color: #33eb16;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 468px;
     top: 0.5%;
     animation: balls 5s 5.1s infinite forwards;
 }
 #firstcb-53 {
     position: absolute;
-    background-color: #02cd45;
+    background-color: #806c6e;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 477px;
     top: -19%;
     animation: lines 5s 5.2s infinite forwards;
@@ -1146,19 +1150,19 @@
 }
 #firstcbcircle-53 {
     position: absolute;
-    background-color: #02cd45;
+    background-color: #806c6e;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 477px;
     top: 0.5%;
     animation: balls 5s 5.2s infinite forwards;
 }
 #firstcb-54 {
     position: absolute;
-    background-color: #8542ca;
+    background-color: #26f743;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 486px;
     top: -19%;
     animation: lines 5s 5.3s infinite forwards;
@@ -1167,19 +1171,19 @@
 }
 #firstcbcircle-54 {
     position: absolute;
-    background-color: #8542ca;
+    background-color: #26f743;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 486px;
     top: 0.5%;
     animation: balls 5s 5.3s infinite forwards;
 }
 #firstcb-55 {
     position: absolute;
-    background-color: #1e9c83;
+    background-color: #ad9d33;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 495px;
     top: -19%;
     animation: lines 5s 5.4s infinite forwards;
@@ -1188,19 +1192,19 @@
 }
 #firstcbcircle-55 {
     position: absolute;
-    background-color: #1e9c83;
+    background-color: #ad9d33;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 495px;
     top: 0.5%;
     animation: balls 5s 5.4s infinite forwards;
 }
 #firstcb-56 {
     position: absolute;
-    background-color: #f65ec4;
+    background-color: #f6cabc;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 504px;
     top: -19%;
     animation: lines 5s 5.5s infinite forwards;
@@ -1209,19 +1213,19 @@
 }
 #firstcbcircle-56 {
     position: absolute;
-    background-color: #f65ec4;
+    background-color: #f6cabc;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 504px;
     top: 0.5%;
     animation: balls 5s 5.5s infinite forwards;
 }
 #firstcb-57 {
     position: absolute;
-    background-color: #ccb6ea;
+    background-color: #4d9a8e;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 513px;
     top: -19%;
     animation: lines 5s 5.6s infinite forwards;
@@ -1230,19 +1234,19 @@
 }
 #firstcbcircle-57 {
     position: absolute;
-    background-color: #ccb6ea;
+    background-color: #4d9a8e;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 513px;
     top: 0.5%;
     animation: balls 5s 5.6s infinite forwards;
 }
 #firstcb-58 {
     position: absolute;
-    background-color: #7b95e4;
+    background-color: #5fc194;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 522px;
     top: -19%;
     animation: lines 5s 5.7s infinite forwards;
@@ -1251,19 +1255,19 @@
 }
 #firstcbcircle-58 {
     position: absolute;
-    background-color: #7b95e4;
+    background-color: #5fc194;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 522px;
     top: 0.5%;
     animation: balls 5s 5.7s infinite forwards;
 }
 #firstcb-59 {
     position: absolute;
-    background-color: #840b50;
+    background-color: #726c58;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 531px;
     top: -19%;
     animation: lines 5s 5.8s infinite forwards;
@@ -1272,19 +1276,19 @@
 }
 #firstcbcircle-59 {
     position: absolute;
-    background-color: #840b50;
+    background-color: #726c58;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 531px;
     top: 0.5%;
     animation: balls 5s 5.8s infinite forwards;
 }
 #firstcb-60 {
     position: absolute;
-    background-color: #053dc0;
+    background-color: #3ab5df;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 540px;
     top: -19%;
     animation: lines 5s 5.9s infinite forwards;
@@ -1293,19 +1297,19 @@
 }
 #firstcbcircle-60 {
     position: absolute;
-    background-color: #053dc0;
+    background-color: #3ab5df;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 540px;
     top: 0.5%;
     animation: balls 5s 5.9s infinite forwards;
 }
 #firstcb-61 {
     position: absolute;
-    background-color: #7744a3;
+    background-color: #f2a589;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 549px;
     top: -19%;
     animation: lines 5s 6s infinite forwards;
@@ -1314,19 +1318,19 @@
 }
 #firstcbcircle-61 {
     position: absolute;
-    background-color: #7744a3;
+    background-color: #f2a589;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 549px;
     top: 0.5%;
     animation: balls 5s 6s infinite forwards;
 }
 #firstcb-62 {
     position: absolute;
-    background-color: #6dc03f;
+    background-color: #40048d;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 558px;
     top: -19%;
     animation: lines 5s 6.1s infinite forwards;
@@ -1335,19 +1339,19 @@
 }
 #firstcbcircle-62 {
     position: absolute;
-    background-color: #6dc03f;
+    background-color: #40048d;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 558px;
     top: 0.5%;
     animation: balls 5s 6.1s infinite forwards;
 }
 #firstcb-63 {
     position: absolute;
-    background-color: #17aebb;
+    background-color: #ad26d1;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 567px;
     top: -19%;
     animation: lines 5s 6.2s infinite forwards;
@@ -1356,19 +1360,19 @@
 }
 #firstcbcircle-63 {
     position: absolute;
-    background-color: #17aebb;
+    background-color: #ad26d1;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 567px;
     top: 0.5%;
     animation: balls 5s 6.2s infinite forwards;
 }
 #firstcb-64 {
     position: absolute;
-    background-color: #2b7f5a;
+    background-color: #e50a2e;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 576px;
     top: -19%;
     animation: lines 5s 6.3s infinite forwards;
@@ -1377,19 +1381,19 @@
 }
 #firstcbcircle-64 {
     position: absolute;
-    background-color: #2b7f5a;
+    background-color: #e50a2e;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 576px;
     top: 0.5%;
     animation: balls 5s 6.3s infinite forwards;
 }
 #firstcb-65 {
     position: absolute;
-    background-color: #7dd715;
+    background-color: #ad1dd6;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 585px;
     top: -19%;
     animation: lines 5s 6.4s infinite forwards;
@@ -1398,19 +1402,19 @@
 }
 #firstcbcircle-65 {
     position: absolute;
-    background-color: #7dd715;
+    background-color: #ad1dd6;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 585px;
     top: 0.5%;
     animation: balls 5s 6.4s infinite forwards;
 }
 #firstcb-66 {
     position: absolute;
-    background-color: #4cdab0;
+    background-color: #c9bca9;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 594px;
     top: -19%;
     animation: lines 5s 6.5s infinite forwards;
@@ -1419,19 +1423,19 @@
 }
 #firstcbcircle-66 {
     position: absolute;
-    background-color: #4cdab0;
+    background-color: #c9bca9;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 594px;
     top: 0.5%;
     animation: balls 5s 6.5s infinite forwards;
 }
 #firstcb-67 {
     position: absolute;
-    background-color: #a2c81c;
+    background-color: #a1ee53;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 603px;
     top: -19%;
     animation: lines 5s 6.6s infinite forwards;
@@ -1440,19 +1444,19 @@
 }
 #firstcbcircle-67 {
     position: absolute;
-    background-color: #a2c81c;
+    background-color: #a1ee53;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 603px;
     top: 0.5%;
     animation: balls 5s 6.6s infinite forwards;
 }
 #firstcb-68 {
     position: absolute;
-    background-color: #eccbc9;
+    background-color: #c1b225;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 612px;
     top: -19%;
     animation: lines 5s 6.7s infinite forwards;
@@ -1461,19 +1465,19 @@
 }
 #firstcbcircle-68 {
     position: absolute;
-    background-color: #eccbc9;
+    background-color: #c1b225;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 612px;
     top: 0.5%;
     animation: balls 5s 6.7s infinite forwards;
 }
 #firstcb-69 {
     position: absolute;
-    background-color: #9bb822;
+    background-color: #848396;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 621px;
     top: -19%;
     animation: lines 5s 6.8s infinite forwards;
@@ -1482,19 +1486,19 @@
 }
 #firstcbcircle-69 {
     position: absolute;
-    background-color: #9bb822;
+    background-color: #848396;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 621px;
     top: 0.5%;
     animation: balls 5s 6.8s infinite forwards;
 }
 #firstcb-70 {
     position: absolute;
-    background-color: #2950ef;
+    background-color: #82d332;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 630px;
     top: -19%;
     animation: lines 5s 6.9s infinite forwards;
@@ -1503,19 +1507,19 @@
 }
 #firstcbcircle-70 {
     position: absolute;
-    background-color: #2950ef;
+    background-color: #82d332;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 630px;
     top: 0.5%;
     animation: balls 5s 6.9s infinite forwards;
 }
 #firstcb-71 {
     position: absolute;
-    background-color: #c9bc05;
+    background-color: #44d47b;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 639px;
     top: -19%;
     animation: lines 5s 7s infinite forwards;
@@ -1524,19 +1528,19 @@
 }
 #firstcbcircle-71 {
     position: absolute;
-    background-color: #c9bc05;
+    background-color: #44d47b;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 639px;
     top: 0.5%;
     animation: balls 5s 7s infinite forwards;
 }
 #firstcb-72 {
     position: absolute;
-    background-color: #2723a7;
+    background-color: #330af9;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 648px;
     top: -19%;
     animation: lines 5s 7.1s infinite forwards;
@@ -1545,19 +1549,19 @@
 }
 #firstcbcircle-72 {
     position: absolute;
-    background-color: #2723a7;
+    background-color: #330af9;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 648px;
     top: 0.5%;
     animation: balls 5s 7.1s infinite forwards;
 }
 #firstcb-73 {
     position: absolute;
-    background-color: #c64112;
+    background-color: #10d839;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 657px;
     top: -19%;
     animation: lines 5s 7.2s infinite forwards;
@@ -1566,19 +1570,19 @@
 }
 #firstcbcircle-73 {
     position: absolute;
-    background-color: #c64112;
+    background-color: #10d839;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 657px;
     top: 0.5%;
     animation: balls 5s 7.2s infinite forwards;
 }
 #firstcb-74 {
     position: absolute;
-    background-color: #fdea35;
+    background-color: #aae120;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 666px;
     top: -19%;
     animation: lines 5s 7.3s infinite forwards;
@@ -1587,19 +1591,19 @@
 }
 #firstcbcircle-74 {
     position: absolute;
-    background-color: #fdea35;
+    background-color: #aae120;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 666px;
     top: 0.5%;
     animation: balls 5s 7.3s infinite forwards;
 }
 #firstcb-75 {
     position: absolute;
-    background-color: #5b5368;
+    background-color: #d43762;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 675px;
     top: -19%;
     animation: lines 5s 7.4s infinite forwards;
@@ -1608,19 +1612,19 @@
 }
 #firstcbcircle-75 {
     position: absolute;
-    background-color: #5b5368;
+    background-color: #d43762;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 675px;
     top: 0.5%;
     animation: balls 5s 7.4s infinite forwards;
 }
 #firstcb-76 {
     position: absolute;
-    background-color: #9fb7e1;
+    background-color: #c6cb08;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 684px;
     top: -19%;
     animation: lines 5s 7.5s infinite forwards;
@@ -1629,19 +1633,19 @@
 }
 #firstcbcircle-76 {
     position: absolute;
-    background-color: #9fb7e1;
+    background-color: #c6cb08;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 684px;
     top: 0.5%;
     animation: balls 5s 7.5s infinite forwards;
 }
 #firstcb-77 {
     position: absolute;
-    background-color: #6a86ac;
+    background-color: #348de7;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 693px;
     top: -19%;
     animation: lines 5s 7.6s infinite forwards;
@@ -1650,19 +1654,19 @@
 }
 #firstcbcircle-77 {
     position: absolute;
-    background-color: #6a86ac;
+    background-color: #348de7;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 693px;
     top: 0.5%;
     animation: balls 5s 7.6s infinite forwards;
 }
 #firstcb-78 {
     position: absolute;
-    background-color: #7d03d8;
+    background-color: #a67217;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 702px;
     top: -19%;
     animation: lines 5s 7.7s infinite forwards;
@@ -1671,19 +1675,19 @@
 }
 #firstcbcircle-78 {
     position: absolute;
-    background-color: #7d03d8;
+    background-color: #a67217;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 702px;
     top: 0.5%;
     animation: balls 5s 7.7s infinite forwards;
 }
 #firstcb-79 {
     position: absolute;
-    background-color: #8ead24;
+    background-color: #792e22;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 711px;
     top: -19%;
     animation: lines 5s 7.8s infinite forwards;
@@ -1692,19 +1696,19 @@
 }
 #firstcbcircle-79 {
     position: absolute;
-    background-color: #8ead24;
+    background-color: #792e22;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 711px;
     top: 0.5%;
     animation: balls 5s 7.8s infinite forwards;
 }
 #firstcb-80 {
     position: absolute;
-    background-color: #dbd448;
+    background-color: #b836cd;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 720px;
     top: -19%;
     animation: lines 5s 7.9s infinite forwards;
@@ -1713,19 +1717,19 @@
 }
 #firstcbcircle-80 {
     position: absolute;
-    background-color: #dbd448;
+    background-color: #b836cd;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 720px;
     top: 0.5%;
     animation: balls 5s 7.9s infinite forwards;
 }
 #firstcb-81 {
     position: absolute;
-    background-color: #57f9f5;
+    background-color: #97f0c3;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 729px;
     top: -19%;
     animation: lines 5s 8s infinite forwards;
@@ -1734,19 +1738,19 @@
 }
 #firstcbcircle-81 {
     position: absolute;
-    background-color: #57f9f5;
+    background-color: #97f0c3;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 729px;
     top: 0.5%;
     animation: balls 5s 8s infinite forwards;
 }
 #firstcb-82 {
     position: absolute;
-    background-color: #7f364f;
+    background-color: #271abb;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 738px;
     top: -19%;
     animation: lines 5s 8.1s infinite forwards;
@@ -1755,19 +1759,19 @@
 }
 #firstcbcircle-82 {
     position: absolute;
-    background-color: #7f364f;
+    background-color: #271abb;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 738px;
     top: 0.5%;
     animation: balls 5s 8.1s infinite forwards;
 }
 #firstcb-83 {
     position: absolute;
-    background-color: #ce783f;
+    background-color: #3eacfd;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 747px;
     top: -19%;
     animation: lines 5s 8.2s infinite forwards;
@@ -1776,19 +1780,19 @@
 }
 #firstcbcircle-83 {
     position: absolute;
-    background-color: #ce783f;
+    background-color: #3eacfd;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 747px;
     top: 0.5%;
     animation: balls 5s 8.2s infinite forwards;
 }
 #firstcb-84 {
     position: absolute;
-    background-color: #ead685;
+    background-color: #524fa8;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 756px;
     top: -19%;
     animation: lines 5s 8.3s infinite forwards;
@@ -1797,19 +1801,19 @@
 }
 #firstcbcircle-84 {
     position: absolute;
-    background-color: #ead685;
+    background-color: #524fa8;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 756px;
     top: 0.5%;
     animation: balls 5s 8.3s infinite forwards;
 }
 #firstcb-85 {
     position: absolute;
-    background-color: #4a31c7;
+    background-color: #a33cc2;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 765px;
     top: -19%;
     animation: lines 5s 8.4s infinite forwards;
@@ -1818,19 +1822,19 @@
 }
 #firstcbcircle-85 {
     position: absolute;
-    background-color: #4a31c7;
+    background-color: #a33cc2;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 765px;
     top: 0.5%;
     animation: balls 5s 8.4s infinite forwards;
 }
 #firstcb-86 {
     position: absolute;
-    background-color: #3241b4;
+    background-color: #f4ff34;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 774px;
     top: -19%;
     animation: lines 5s 8.5s infinite forwards;
@@ -1839,19 +1843,19 @@
 }
 #firstcbcircle-86 {
     position: absolute;
-    background-color: #3241b4;
+    background-color: #f4ff34;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 774px;
     top: 0.5%;
     animation: balls 5s 8.5s infinite forwards;
 }
 #firstcb-87 {
     position: absolute;
-    background-color: #be6260;
+    background-color: #de05e9;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 783px;
     top: -19%;
     animation: lines 5s 8.6s infinite forwards;
@@ -1860,19 +1864,19 @@
 }
 #firstcbcircle-87 {
     position: absolute;
-    background-color: #be6260;
+    background-color: #de05e9;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 783px;
     top: 0.5%;
     animation: balls 5s 8.6s infinite forwards;
 }
 #firstcb-88 {
     position: absolute;
-    background-color: #df5024;
+    background-color: #0ea75b;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 792px;
     top: -19%;
     animation: lines 5s 8.7s infinite forwards;
@@ -1881,19 +1885,19 @@
 }
 #firstcbcircle-88 {
     position: absolute;
-    background-color: #df5024;
+    background-color: #0ea75b;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 792px;
     top: 0.5%;
     animation: balls 5s 8.7s infinite forwards;
 }
 #firstcb-89 {
     position: absolute;
-    background-color: #78eaf3;
+    background-color: #114593;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 801px;
     top: -19%;
     animation: lines 5s 8.8s infinite forwards;
@@ -1902,19 +1906,19 @@
 }
 #firstcbcircle-89 {
     position: absolute;
-    background-color: #78eaf3;
+    background-color: #114593;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 801px;
     top: 0.5%;
     animation: balls 5s 8.8s infinite forwards;
 }
 #firstcb-90 {
     position: absolute;
-    background-color: #b1b744;
+    background-color: #6bcb4f;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 810px;
     top: -19%;
     animation: lines 5s 8.9s infinite forwards;
@@ -1923,19 +1927,19 @@
 }
 #firstcbcircle-90 {
     position: absolute;
-    background-color: #b1b744;
+    background-color: #6bcb4f;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 810px;
     top: 0.5%;
     animation: balls 5s 8.9s infinite forwards;
 }
 #firstcb-91 {
     position: absolute;
-    background-color: #f9d519;
+    background-color: #9d6ec5;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 819px;
     top: -19%;
     animation: lines 5s 9s infinite forwards;
@@ -1944,19 +1948,19 @@
 }
 #firstcbcircle-91 {
     position: absolute;
-    background-color: #f9d519;
+    background-color: #9d6ec5;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 819px;
     top: 0.5%;
     animation: balls 5s 9s infinite forwards;
 }
 #firstcb-92 {
     position: absolute;
-    background-color: #497ccd;
+    background-color: #673bfb;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 828px;
     top: -19%;
     animation: lines 5s 9.1s infinite forwards;
@@ -1965,19 +1969,19 @@
 }
 #firstcbcircle-92 {
     position: absolute;
-    background-color: #497ccd;
+    background-color: #673bfb;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 828px;
     top: 0.5%;
     animation: balls 5s 9.1s infinite forwards;
 }
 #firstcb-93 {
     position: absolute;
-    background-color: #892b09;
+    background-color: #b9ec97;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 837px;
     top: -19%;
     animation: lines 5s 9.2s infinite forwards;
@@ -1986,19 +1990,19 @@
 }
 #firstcbcircle-93 {
     position: absolute;
-    background-color: #892b09;
+    background-color: #b9ec97;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 837px;
     top: 0.5%;
     animation: balls 5s 9.2s infinite forwards;
 }
 #firstcb-94 {
     position: absolute;
-    background-color: #61a4c4;
+    background-color: #a8a134;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 846px;
     top: -19%;
     animation: lines 5s 9.3s infinite forwards;
@@ -2007,19 +2011,19 @@
 }
 #firstcbcircle-94 {
     position: absolute;
-    background-color: #61a4c4;
+    background-color: #a8a134;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 846px;
     top: 0.5%;
     animation: balls 5s 9.3s infinite forwards;
 }
 #firstcb-95 {
     position: absolute;
-    background-color: #2852b8;
+    background-color: #d13829;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 855px;
     top: -19%;
     animation: lines 5s 9.4s infinite forwards;
@@ -2028,19 +2032,19 @@
 }
 #firstcbcircle-95 {
     position: absolute;
-    background-color: #2852b8;
+    background-color: #d13829;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 855px;
     top: 0.5%;
     animation: balls 5s 9.4s infinite forwards;
 }
 #firstcb-96 {
     position: absolute;
-    background-color: #1ed341;
+    background-color: #dce8cf;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 864px;
     top: -19%;
     animation: lines 5s 9.5s infinite forwards;
@@ -2049,19 +2053,19 @@
 }
 #firstcbcircle-96 {
     position: absolute;
-    background-color: #1ed341;
+    background-color: #dce8cf;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 864px;
     top: 0.5%;
     animation: balls 5s 9.5s infinite forwards;
 }
 #firstcb-97 {
     position: absolute;
-    background-color: #56557f;
+    background-color: #161d46;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 873px;
     top: -19%;
     animation: lines 5s 9.6s infinite forwards;
@@ -2070,19 +2074,19 @@
 }
 #firstcbcircle-97 {
     position: absolute;
-    background-color: #56557f;
+    background-color: #161d46;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 873px;
     top: 0.5%;
     animation: balls 5s 9.6s infinite forwards;
 }
 #firstcb-98 {
     position: absolute;
-    background-color: #472e11;
+    background-color: #cc954f;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 882px;
     top: -19%;
     animation: lines 5s 9.7s infinite forwards;
@@ -2091,19 +2095,19 @@
 }
 #firstcbcircle-98 {
     position: absolute;
-    background-color: #472e11;
+    background-color: #cc954f;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 882px;
     top: 0.5%;
     animation: balls 5s 9.7s infinite forwards;
 }
 #firstcb-99 {
     position: absolute;
-    background-color: #92d856;
+    background-color: #e7be43;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 891px;
     top: -19%;
     animation: lines 5s 9.8s infinite forwards;
@@ -2112,19 +2116,19 @@
 }
 #firstcbcircle-99 {
     position: absolute;
-    background-color: #92d856;
+    background-color: #e7be43;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 891px;
     top: 0.5%;
     animation: balls 5s 9.8s infinite forwards;
 }
 #firstcb-100 {
     position: absolute;
-    background-color: #495b82;
+    background-color: #0f4a09;
     height: 20%;
-    width: 2%;
+    width: 9px;
     left: 900px;
     top: -19%;
     animation: lines 5s 9.9s infinite forwards;
@@ -2133,14 +2137,1592 @@
 }
 #firstcbcircle-100 {
     position: absolute;
-    background-color: #495b82;
+    background-color: #0f4a09;
     border-radius: 100%;
     height: 2%;
-    width: 2%;
+    width: 9px;
     left: 900px;
     top: 0.5%;
     animation: balls 5s 9.9s infinite forwards;
 }
+#firstcb-101 {
+    position: absolute;
+    background-color: #238d8f;
+    height: 20%;
+    width: 9px;
+    left: 909px;
+    top: -19%;
+    animation: lines 5s 10s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-101 {
+    position: absolute;
+    background-color: #238d8f;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 909px;
+    top: 0.5%;
+    animation: balls 5s 10s infinite forwards;
+}
+#firstcb-102 {
+    position: absolute;
+    background-color: #f13a73;
+    height: 20%;
+    width: 9px;
+    left: 918px;
+    top: -19%;
+    animation: lines 5s 10.1s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-102 {
+    position: absolute;
+    background-color: #f13a73;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 918px;
+    top: 0.5%;
+    animation: balls 5s 10.1s infinite forwards;
+}
+#firstcb-103 {
+    position: absolute;
+    background-color: #766155;
+    height: 20%;
+    width: 9px;
+    left: 927px;
+    top: -19%;
+    animation: lines 5s 10.2s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-103 {
+    position: absolute;
+    background-color: #766155;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 927px;
+    top: 0.5%;
+    animation: balls 5s 10.2s infinite forwards;
+}
+#firstcb-104 {
+    position: absolute;
+    background-color: #d0f7c0;
+    height: 20%;
+    width: 9px;
+    left: 936px;
+    top: -19%;
+    animation: lines 5s 10.3s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-104 {
+    position: absolute;
+    background-color: #d0f7c0;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 936px;
+    top: 0.5%;
+    animation: balls 5s 10.3s infinite forwards;
+}
+#firstcb-105 {
+    position: absolute;
+    background-color: #84a930;
+    height: 20%;
+    width: 9px;
+    left: 945px;
+    top: -19%;
+    animation: lines 5s 10.4s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-105 {
+    position: absolute;
+    background-color: #84a930;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 945px;
+    top: 0.5%;
+    animation: balls 5s 10.4s infinite forwards;
+}
+#firstcb-106 {
+    position: absolute;
+    background-color: #eb2b48;
+    height: 20%;
+    width: 9px;
+    left: 954px;
+    top: -19%;
+    animation: lines 5s 10.5s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-106 {
+    position: absolute;
+    background-color: #eb2b48;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 954px;
+    top: 0.5%;
+    animation: balls 5s 10.5s infinite forwards;
+}
+#firstcb-107 {
+    position: absolute;
+    background-color: #a48158;
+    height: 20%;
+    width: 9px;
+    left: 963px;
+    top: -19%;
+    animation: lines 5s 10.6s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-107 {
+    position: absolute;
+    background-color: #a48158;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 963px;
+    top: 0.5%;
+    animation: balls 5s 10.6s infinite forwards;
+}
+#firstcb-108 {
+    position: absolute;
+    background-color: #57acf0;
+    height: 20%;
+    width: 9px;
+    left: 972px;
+    top: -19%;
+    animation: lines 5s 10.7s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-108 {
+    position: absolute;
+    background-color: #57acf0;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 972px;
+    top: 0.5%;
+    animation: balls 5s 10.7s infinite forwards;
+}
+#firstcb-109 {
+    position: absolute;
+    background-color: #9407a0;
+    height: 20%;
+    width: 9px;
+    left: 981px;
+    top: -19%;
+    animation: lines 5s 10.8s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-109 {
+    position: absolute;
+    background-color: #9407a0;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 981px;
+    top: 0.5%;
+    animation: balls 5s 10.8s infinite forwards;
+}
+#firstcb-110 {
+    position: absolute;
+    background-color: #535708;
+    height: 20%;
+    width: 9px;
+    left: 990px;
+    top: -19%;
+    animation: lines 5s 10.9s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-110 {
+    position: absolute;
+    background-color: #535708;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 990px;
+    top: 0.5%;
+    animation: balls 5s 10.9s infinite forwards;
+}
+#firstcb-111 {
+    position: absolute;
+    background-color: #57536c;
+    height: 20%;
+    width: 9px;
+    left: 999px;
+    top: -19%;
+    animation: lines 5s 11s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-111 {
+    position: absolute;
+    background-color: #57536c;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 999px;
+    top: 0.5%;
+    animation: balls 5s 11s infinite forwards;
+}
+#firstcb-112 {
+    position: absolute;
+    background-color: #1dc9cc;
+    height: 20%;
+    width: 9px;
+    left: 1008px;
+    top: -19%;
+    animation: lines 5s 11.1s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-112 {
+    position: absolute;
+    background-color: #1dc9cc;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1008px;
+    top: 0.5%;
+    animation: balls 5s 11.1s infinite forwards;
+}
+#firstcb-113 {
+    position: absolute;
+    background-color: #10a74f;
+    height: 20%;
+    width: 9px;
+    left: 1017px;
+    top: -19%;
+    animation: lines 5s 11.2s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-113 {
+    position: absolute;
+    background-color: #10a74f;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1017px;
+    top: 0.5%;
+    animation: balls 5s 11.2s infinite forwards;
+}
+#firstcb-114 {
+    position: absolute;
+    background-color: #29bf7e;
+    height: 20%;
+    width: 9px;
+    left: 1026px;
+    top: -19%;
+    animation: lines 5s 11.3s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-114 {
+    position: absolute;
+    background-color: #29bf7e;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1026px;
+    top: 0.5%;
+    animation: balls 5s 11.3s infinite forwards;
+}
+#firstcb-115 {
+    position: absolute;
+    background-color: #23ebf6;
+    height: 20%;
+    width: 9px;
+    left: 1035px;
+    top: -19%;
+    animation: lines 5s 11.4s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-115 {
+    position: absolute;
+    background-color: #23ebf6;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1035px;
+    top: 0.5%;
+    animation: balls 5s 11.4s infinite forwards;
+}
+#firstcb-116 {
+    position: absolute;
+    background-color: #cba6d9;
+    height: 20%;
+    width: 9px;
+    left: 1044px;
+    top: -19%;
+    animation: lines 5s 11.5s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-116 {
+    position: absolute;
+    background-color: #cba6d9;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1044px;
+    top: 0.5%;
+    animation: balls 5s 11.5s infinite forwards;
+}
+#firstcb-117 {
+    position: absolute;
+    background-color: #825fa8;
+    height: 20%;
+    width: 9px;
+    left: 1053px;
+    top: -19%;
+    animation: lines 5s 11.6s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-117 {
+    position: absolute;
+    background-color: #825fa8;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1053px;
+    top: 0.5%;
+    animation: balls 5s 11.6s infinite forwards;
+}
+#firstcb-118 {
+    position: absolute;
+    background-color: #bc0d1f;
+    height: 20%;
+    width: 9px;
+    left: 1062px;
+    top: -19%;
+    animation: lines 5s 11.7s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-118 {
+    position: absolute;
+    background-color: #bc0d1f;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1062px;
+    top: 0.5%;
+    animation: balls 5s 11.7s infinite forwards;
+}
+#firstcb-119 {
+    position: absolute;
+    background-color: #f8b351;
+    height: 20%;
+    width: 9px;
+    left: 1071px;
+    top: -19%;
+    animation: lines 5s 11.8s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-119 {
+    position: absolute;
+    background-color: #f8b351;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1071px;
+    top: 0.5%;
+    animation: balls 5s 11.8s infinite forwards;
+}
+#firstcb-120 {
+    position: absolute;
+    background-color: #97d463;
+    height: 20%;
+    width: 9px;
+    left: 1080px;
+    top: -19%;
+    animation: lines 5s 11.9s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-120 {
+    position: absolute;
+    background-color: #97d463;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1080px;
+    top: 0.5%;
+    animation: balls 5s 11.9s infinite forwards;
+}
+#firstcb-121 {
+    position: absolute;
+    background-color: #a77079;
+    height: 20%;
+    width: 9px;
+    left: 1089px;
+    top: -19%;
+    animation: lines 5s 12s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-121 {
+    position: absolute;
+    background-color: #a77079;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1089px;
+    top: 0.5%;
+    animation: balls 5s 12s infinite forwards;
+}
+#firstcb-122 {
+    position: absolute;
+    background-color: #6eb226;
+    height: 20%;
+    width: 9px;
+    left: 1098px;
+    top: -19%;
+    animation: lines 5s 12.1s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-122 {
+    position: absolute;
+    background-color: #6eb226;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1098px;
+    top: 0.5%;
+    animation: balls 5s 12.1s infinite forwards;
+}
+#firstcb-123 {
+    position: absolute;
+    background-color: #8dd59a;
+    height: 20%;
+    width: 9px;
+    left: 1107px;
+    top: -19%;
+    animation: lines 5s 12.2s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-123 {
+    position: absolute;
+    background-color: #8dd59a;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1107px;
+    top: 0.5%;
+    animation: balls 5s 12.2s infinite forwards;
+}
+#firstcb-124 {
+    position: absolute;
+    background-color: #cada08;
+    height: 20%;
+    width: 9px;
+    left: 1116px;
+    top: -19%;
+    animation: lines 5s 12.3s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-124 {
+    position: absolute;
+    background-color: #cada08;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1116px;
+    top: 0.5%;
+    animation: balls 5s 12.3s infinite forwards;
+}
+#firstcb-125 {
+    position: absolute;
+    background-color: #3266e0;
+    height: 20%;
+    width: 9px;
+    left: 1125px;
+    top: -19%;
+    animation: lines 5s 12.4s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-125 {
+    position: absolute;
+    background-color: #3266e0;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1125px;
+    top: 0.5%;
+    animation: balls 5s 12.4s infinite forwards;
+}
+#firstcb-126 {
+    position: absolute;
+    background-color: #3250d9;
+    height: 20%;
+    width: 9px;
+    left: 1134px;
+    top: -19%;
+    animation: lines 5s 12.5s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-126 {
+    position: absolute;
+    background-color: #3250d9;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1134px;
+    top: 0.5%;
+    animation: balls 5s 12.5s infinite forwards;
+}
+#firstcb-127 {
+    position: absolute;
+    background-color: #25bb58;
+    height: 20%;
+    width: 9px;
+    left: 1143px;
+    top: -19%;
+    animation: lines 5s 12.6s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-127 {
+    position: absolute;
+    background-color: #25bb58;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1143px;
+    top: 0.5%;
+    animation: balls 5s 12.6s infinite forwards;
+}
+#firstcb-128 {
+    position: absolute;
+    background-color: #39218d;
+    height: 20%;
+    width: 9px;
+    left: 1152px;
+    top: -19%;
+    animation: lines 5s 12.7s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-128 {
+    position: absolute;
+    background-color: #39218d;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1152px;
+    top: 0.5%;
+    animation: balls 5s 12.7s infinite forwards;
+}
+#firstcb-129 {
+    position: absolute;
+    background-color: #910a9e;
+    height: 20%;
+    width: 9px;
+    left: 1161px;
+    top: -19%;
+    animation: lines 5s 12.8s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-129 {
+    position: absolute;
+    background-color: #910a9e;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1161px;
+    top: 0.5%;
+    animation: balls 5s 12.8s infinite forwards;
+}
+#firstcb-130 {
+    position: absolute;
+    background-color: #79ad69;
+    height: 20%;
+    width: 9px;
+    left: 1170px;
+    top: -19%;
+    animation: lines 5s 12.9s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-130 {
+    position: absolute;
+    background-color: #79ad69;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1170px;
+    top: 0.5%;
+    animation: balls 5s 12.9s infinite forwards;
+}
+#firstcb-131 {
+    position: absolute;
+    background-color: #70165e;
+    height: 20%;
+    width: 9px;
+    left: 1179px;
+    top: -19%;
+    animation: lines 5s 13s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-131 {
+    position: absolute;
+    background-color: #70165e;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1179px;
+    top: 0.5%;
+    animation: balls 5s 13s infinite forwards;
+}
+#firstcb-132 {
+    position: absolute;
+    background-color: #4b7ded;
+    height: 20%;
+    width: 9px;
+    left: 1188px;
+    top: -19%;
+    animation: lines 5s 13.1s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-132 {
+    position: absolute;
+    background-color: #4b7ded;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1188px;
+    top: 0.5%;
+    animation: balls 5s 13.1s infinite forwards;
+}
+#firstcb-133 {
+    position: absolute;
+    background-color: #79d48e;
+    height: 20%;
+    width: 9px;
+    left: 1197px;
+    top: -19%;
+    animation: lines 5s 13.2s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-133 {
+    position: absolute;
+    background-color: #79d48e;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1197px;
+    top: 0.5%;
+    animation: balls 5s 13.2s infinite forwards;
+}
+#firstcb-134 {
+    position: absolute;
+    background-color: #e39cc6;
+    height: 20%;
+    width: 9px;
+    left: 1206px;
+    top: -19%;
+    animation: lines 5s 13.3s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-134 {
+    position: absolute;
+    background-color: #e39cc6;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1206px;
+    top: 0.5%;
+    animation: balls 5s 13.3s infinite forwards;
+}
+#firstcb-135 {
+    position: absolute;
+    background-color: #4cd9b8;
+    height: 20%;
+    width: 9px;
+    left: 1215px;
+    top: -19%;
+    animation: lines 5s 13.4s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-135 {
+    position: absolute;
+    background-color: #4cd9b8;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1215px;
+    top: 0.5%;
+    animation: balls 5s 13.4s infinite forwards;
+}
+#firstcb-136 {
+    position: absolute;
+    background-color: #c45097;
+    height: 20%;
+    width: 9px;
+    left: 1224px;
+    top: -19%;
+    animation: lines 5s 13.5s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-136 {
+    position: absolute;
+    background-color: #c45097;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1224px;
+    top: 0.5%;
+    animation: balls 5s 13.5s infinite forwards;
+}
+#firstcb-137 {
+    position: absolute;
+    background-color: #a49261;
+    height: 20%;
+    width: 9px;
+    left: 1233px;
+    top: -19%;
+    animation: lines 5s 13.6s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-137 {
+    position: absolute;
+    background-color: #a49261;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1233px;
+    top: 0.5%;
+    animation: balls 5s 13.6s infinite forwards;
+}
+#firstcb-138 {
+    position: absolute;
+    background-color: #ae8515;
+    height: 20%;
+    width: 9px;
+    left: 1242px;
+    top: -19%;
+    animation: lines 5s 13.7s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-138 {
+    position: absolute;
+    background-color: #ae8515;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1242px;
+    top: 0.5%;
+    animation: balls 5s 13.7s infinite forwards;
+}
+#firstcb-139 {
+    position: absolute;
+    background-color: #eff98e;
+    height: 20%;
+    width: 9px;
+    left: 1251px;
+    top: -19%;
+    animation: lines 5s 13.8s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-139 {
+    position: absolute;
+    background-color: #eff98e;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1251px;
+    top: 0.5%;
+    animation: balls 5s 13.8s infinite forwards;
+}
+#firstcb-140 {
+    position: absolute;
+    background-color: #883eca;
+    height: 20%;
+    width: 9px;
+    left: 1260px;
+    top: -19%;
+    animation: lines 5s 13.9s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-140 {
+    position: absolute;
+    background-color: #883eca;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1260px;
+    top: 0.5%;
+    animation: balls 5s 13.9s infinite forwards;
+}
+#firstcb-141 {
+    position: absolute;
+    background-color: #bec165;
+    height: 20%;
+    width: 9px;
+    left: 1269px;
+    top: -19%;
+    animation: lines 5s 14s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-141 {
+    position: absolute;
+    background-color: #bec165;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1269px;
+    top: 0.5%;
+    animation: balls 5s 14s infinite forwards;
+}
+#firstcb-142 {
+    position: absolute;
+    background-color: #677a57;
+    height: 20%;
+    width: 9px;
+    left: 1278px;
+    top: -19%;
+    animation: lines 5s 14.1s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-142 {
+    position: absolute;
+    background-color: #677a57;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1278px;
+    top: 0.5%;
+    animation: balls 5s 14.1s infinite forwards;
+}
+#firstcb-143 {
+    position: absolute;
+    background-color: #7d7f98;
+    height: 20%;
+    width: 9px;
+    left: 1287px;
+    top: -19%;
+    animation: lines 5s 14.2s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-143 {
+    position: absolute;
+    background-color: #7d7f98;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1287px;
+    top: 0.5%;
+    animation: balls 5s 14.2s infinite forwards;
+}
+#firstcb-144 {
+    position: absolute;
+    background-color: #2f750b;
+    height: 20%;
+    width: 9px;
+    left: 1296px;
+    top: -19%;
+    animation: lines 5s 14.3s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-144 {
+    position: absolute;
+    background-color: #2f750b;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1296px;
+    top: 0.5%;
+    animation: balls 5s 14.3s infinite forwards;
+}
+#firstcb-145 {
+    position: absolute;
+    background-color: #9e9ad8;
+    height: 20%;
+    width: 9px;
+    left: 1305px;
+    top: -19%;
+    animation: lines 5s 14.4s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-145 {
+    position: absolute;
+    background-color: #9e9ad8;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1305px;
+    top: 0.5%;
+    animation: balls 5s 14.4s infinite forwards;
+}
+#firstcb-146 {
+    position: absolute;
+    background-color: #ad78b8;
+    height: 20%;
+    width: 9px;
+    left: 1314px;
+    top: -19%;
+    animation: lines 5s 14.5s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-146 {
+    position: absolute;
+    background-color: #ad78b8;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1314px;
+    top: 0.5%;
+    animation: balls 5s 14.5s infinite forwards;
+}
+#firstcb-147 {
+    position: absolute;
+    background-color: #c8cd4e;
+    height: 20%;
+    width: 9px;
+    left: 1323px;
+    top: -19%;
+    animation: lines 5s 14.6s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-147 {
+    position: absolute;
+    background-color: #c8cd4e;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1323px;
+    top: 0.5%;
+    animation: balls 5s 14.6s infinite forwards;
+}
+#firstcb-148 {
+    position: absolute;
+    background-color: #22ec11;
+    height: 20%;
+    width: 9px;
+    left: 1332px;
+    top: -19%;
+    animation: lines 5s 14.7s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-148 {
+    position: absolute;
+    background-color: #22ec11;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1332px;
+    top: 0.5%;
+    animation: balls 5s 14.7s infinite forwards;
+}
+#firstcb-149 {
+    position: absolute;
+    background-color: #95d889;
+    height: 20%;
+    width: 9px;
+    left: 1341px;
+    top: -19%;
+    animation: lines 5s 14.8s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-149 {
+    position: absolute;
+    background-color: #95d889;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1341px;
+    top: 0.5%;
+    animation: balls 5s 14.8s infinite forwards;
+}
+#firstcb-150 {
+    position: absolute;
+    background-color: #03bccc;
+    height: 20%;
+    width: 9px;
+    left: 1350px;
+    top: -19%;
+    animation: lines 5s 14.9s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-150 {
+    position: absolute;
+    background-color: #03bccc;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1350px;
+    top: 0.5%;
+    animation: balls 5s 14.9s infinite forwards;
+}
+
+#firstcb-151 {
+    position: absolute;
+    background-color: #816fb4;
+    height: 20%;
+    width: 9px;
+    left: 1359px;
+    top: -19%;
+    animation: lines 5s 15s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-151 {
+    position: absolute;
+    background-color: #816fb4;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1359px;
+    top: 0.5%;
+    animation: balls 5s 15s infinite forwards;
+}
+#firstcb-152 {
+    position: absolute;
+    background-color: #8cbd70;
+    height: 20%;
+    width: 9px;
+    left: 1368px;
+    top: -19%;
+    animation: lines 5s 15.1s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-152 {
+    position: absolute;
+    background-color: #8cbd70;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1368px;
+    top: 0.5%;
+    animation: balls 5s 15.1s infinite forwards;
+}
+#firstcb-153 {
+    position: absolute;
+    background-color: #dd35d5;
+    height: 20%;
+    width: 9px;
+    left: 1377px;
+    top: -19%;
+    animation: lines 5s 15.2s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-153 {
+    position: absolute;
+    background-color: #dd35d5;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1377px;
+    top: 0.5%;
+    animation: balls 5s 15.2s infinite forwards;
+}
+#firstcb-154 {
+    position: absolute;
+    background-color: #e6a411;
+    height: 20%;
+    width: 9px;
+    left: 1386px;
+    top: -19%;
+    animation: lines 5s 15.3s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-154 {
+    position: absolute;
+    background-color: #e6a411;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1386px;
+    top: 0.5%;
+    animation: balls 5s 15.3s infinite forwards;
+}
+#firstcb-155 {
+    position: absolute;
+    background-color: #1e9696;
+    height: 20%;
+    width: 9px;
+    left: 1395px;
+    top: -19%;
+    animation: lines 5s 15.4s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-155 {
+    position: absolute;
+    background-color: #1e9696;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1395px;
+    top: 0.5%;
+    animation: balls 5s 15.4s infinite forwards;
+}
+#firstcb-156 {
+    position: absolute;
+    background-color: #391db2;
+    height: 20%;
+    width: 9px;
+    left: 1404px;
+    top: -19%;
+    animation: lines 5s 15.5s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-156 {
+    position: absolute;
+    background-color: #391db2;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1404px;
+    top: 0.5%;
+    animation: balls 5s 15.5s infinite forwards;
+}
+#firstcb-157 {
+    position: absolute;
+    background-color: #60a206;
+    height: 20%;
+    width: 9px;
+    left: 1413px;
+    top: -19%;
+    animation: lines 5s 15.6s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-157 {
+    position: absolute;
+    background-color: #60a206;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1413px;
+    top: 0.5%;
+    animation: balls 5s 15.6s infinite forwards;
+}
+#firstcb-158 {
+    position: absolute;
+    background-color: #187a7a;
+    height: 20%;
+    width: 9px;
+    left: 1422px;
+    top: -19%;
+    animation: lines 5s 15.7s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-158 {
+    position: absolute;
+    background-color: #187a7a;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1422px;
+    top: 0.5%;
+    animation: balls 5s 15.7s infinite forwards;
+}
+#firstcb-159 {
+    position: absolute;
+    background-color: #11535a;
+    height: 20%;
+    width: 9px;
+    left: 1431px;
+    top: -19%;
+    animation: lines 5s 15.8s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-159 {
+    position: absolute;
+    background-color: #11535a;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1431px;
+    top: 0.5%;
+    animation: balls 5s 15.8s infinite forwards;
+}
+#firstcb-160 {
+    position: absolute;
+    background-color: #b187c2;
+    height: 20%;
+    width: 9px;
+    left: 1440px;
+    top: -19%;
+    animation: lines 5s 15.9s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-160 {
+    position: absolute;
+    background-color: #b187c2;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1440px;
+    top: 0.5%;
+    animation: balls 5s 15.9s infinite forwards;
+}
+#firstcb-161 {
+    position: absolute;
+    background-color: #beec6b;
+    height: 20%;
+    width: 9px;
+    left: 1449px;
+    top: -19%;
+    animation: lines 5s 16s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-161 {
+    position: absolute;
+    background-color: #beec6b;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1449px;
+    top: 0.5%;
+    animation: balls 5s 16s infinite forwards;
+}
+#firstcb-162 {
+    position: absolute;
+    background-color: #d87a68;
+    height: 20%;
+    width: 9px;
+    left: 1458px;
+    top: -19%;
+    animation: lines 5s 16.1s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-162 {
+    position: absolute;
+    background-color: #d87a68;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1458px;
+    top: 0.5%;
+    animation: balls 5s 16.1s infinite forwards;
+}
+#firstcb-163 {
+    position: absolute;
+    background-color: #bcf863;
+    height: 20%;
+    width: 9px;
+    left: 1467px;
+    top: -19%;
+    animation: lines 5s 16.2s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-163 {
+    position: absolute;
+    background-color: #bcf863;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1467px;
+    top: 0.5%;
+    animation: balls 5s 16.2s infinite forwards;
+}
+#firstcb-164 {
+    position: absolute;
+    background-color: #a30c8d;
+    height: 20%;
+    width: 9px;
+    left: 1476px;
+    top: -19%;
+    animation: lines 5s 16.3s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-164 {
+    position: absolute;
+    background-color: #a30c8d;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1476px;
+    top: 0.5%;
+    animation: balls 5s 16.3s infinite forwards;
+}
+#firstcb-165 {
+    position: absolute;
+    background-color: #86a315;
+    height: 20%;
+    width: 9px;
+    left: 1485px;
+    top: -19%;
+    animation: lines 5s 16.4s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-165 {
+    position: absolute;
+    background-color: #86a315;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1485px;
+    top: 0.5%;
+    animation: balls 5s 16.4s infinite forwards;
+}
+#firstcb-166 {
+    position: absolute;
+    background-color: #e15b41;
+    height: 20%;
+    width: 9px;
+    left: 1494px;
+    top: -19%;
+    animation: lines 5s 16.5s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-166 {
+    position: absolute;
+    background-color: #e15b41;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1494px;
+    top: 0.5%;
+    animation: balls 5s 16.5s infinite forwards;
+}
+#firstcb-167 {
+    position: absolute;
+    background-color: #2fbd92;
+    height: 20%;
+    width: 9px;
+    left: 1503px;
+    top: -19%;
+    animation: lines 5s 16.6s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-167 {
+    position: absolute;
+    background-color: #2fbd92;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1503px;
+    top: 0.5%;
+    animation: balls 5s 16.6s infinite forwards;
+}
+#firstcb-168 {
+    position: absolute;
+    background-color: #2d53c5;
+    height: 20%;
+    width: 9px;
+    left: 1512px;
+    top: -19%;
+    animation: lines 5s 16.7s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-168 {
+    position: absolute;
+    background-color: #2d53c5;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1512px;
+    top: 0.5%;
+    animation: balls 5s 16.7s infinite forwards;
+}
+#firstcb-169 {
+    position: absolute;
+    background-color: #8fbfa1;
+    height: 20%;
+    width: 9px;
+    left: 1521px;
+    top: -19%;
+    animation: lines 5s 16.8s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-169 {
+    position: absolute;
+    background-color: #8fbfa1;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1521px;
+    top: 0.5%;
+    animation: balls 5s 16.8s infinite forwards;
+}
+#firstcb-170 {
+    position: absolute;
+    background-color: #388fff;
+    height: 20%;
+    width: 9px;
+    left: 1530px;
+    top: -19%;
+    animation: lines 5s 16.9s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-170 {
+    position: absolute;
+    background-color: #388fff;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1530px;
+    top: 0.5%;
+    animation: balls 5s 16.9s infinite forwards;
+}
+#firstcb-171 {
+    position: absolute;
+    background-color: #6d4c10;
+    height: 20%;
+    width: 9px;
+    left: 1539px;
+    top: -19%;
+    animation: lines 5s 17s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-171 {
+    position: absolute;
+    background-color: #6d4c10;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1539px;
+    top: 0.5%;
+    animation: balls 5s 17s infinite forwards;
+}
+#firstcb-172 {
+    position: absolute;
+    background-color: #171ea3;
+    height: 20%;
+    width: 9px;
+    left: 1548px;
+    top: -19%;
+    animation: lines 5s 17.1s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-172 {
+    position: absolute;
+    background-color: #171ea3;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1548px;
+    top: 0.5%;
+    animation: balls 5s 17.1s infinite forwards;
+}
+#firstcb-173 {
+    position: absolute;
+    background-color: #7ea263;
+    height: 20%;
+    width: 9px;
+    left: 1557px;
+    top: -19%;
+    animation: lines 5s 17.2s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-173 {
+    position: absolute;
+    background-color: #7ea263;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1557px;
+    top: 0.5%;
+    animation: balls 5s 17.2s infinite forwards;
+}
+#firstcb-174 {
+    position: absolute;
+    background-color: #84026c;
+    height: 20%;
+    width: 9px;
+    left: 1566px;
+    top: -19%;
+    animation: lines 5s 17.3s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-174 {
+    position: absolute;
+    background-color: #84026c;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1566px;
+    top: 0.5%;
+    animation: balls 5s 17.3s infinite forwards;
+}
+#firstcb-175 {
+    position: absolute;
+    background-color: #5d6cf1;
+    height: 20%;
+    width: 9px;
+    left: 1575px;
+    top: -19%;
+    animation: lines 5s 17.4s infinite forwards;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+#firstcbcircle-175 {
+    position: absolute;
+    background-color: #5d6cf1;
+    border-radius: 100%;
+    height: 2%;
+    width: 9px;
+    left: 1575px;
+    top: 0.5%;
+    animation: balls 5s 17.4s infinite forwards;
+}
+
+/* repeat end */
 
   
 
@@ -2262,10 +3844,85 @@
     #firstcb-98,
     #firstcb-99,
     #firstcb-100,
-    #firstcb
+    #firstcb,
+    #firstcb-101,
+#firstcb-102,
+#firstcb-103,
+#firstcb-104,
+#firstcb-105,
+#firstcb-106,
+#firstcb-107,
+#firstcb-108,
+#firstcb-109,
+#firstcb-110,
+#firstcb-111,
+#firstcb-112,
+#firstcb-113,
+#firstcb-114,
+#firstcb-115,
+#firstcb-116,
+#firstcb-117,
+#firstcb-118,
+#firstcb-119,
+#firstcb-120,
+#firstcb-121,
+#firstcb-122,
+#firstcb-123,
+#firstcb-124,
+#firstcb-125,
+#firstcb-126,
+#firstcb-127,
+#firstcb-128,
+#firstcb-129,
+#firstcb-130,
+#firstcb-131,
+#firstcb-132,
+#firstcb-133,
+#firstcb-134,
+#firstcb-135,
+#firstcb-136,
+#firstcb-137,
+#firstcb-138,
+#firstcb-139,
+#firstcb-140,
+#firstcb-141,
+#firstcb-142,
+#firstcb-143,
+#firstcb-144,
+#firstcb-145,
+#firstcb-146,
+#firstcb-147,
+#firstcb-148,
+#firstcb-149,
+#firstcb-150,
+#firstcb-151,
+#firstcb-152,
+#firstcb-153,
+#firstcb-154,
+#firstcb-155,
+#firstcb-156,
+#firstcb-157,
+#firstcb-158,
+#firstcb-159,
+#firstcb-160,
+#firstcb-161,
+#firstcb-162,
+#firstcb-163,
+#firstcb-164,
+#firstcb-165,
+#firstcb-166,
+#firstcb-167,
+#firstcb-168,
+#firstcb-169,
+#firstcb-170,
+#firstcb-171,
+#firstcb-172,
+#firstcb-173,
+#firstcb-174,
+#firstcb-175 
     {
-        height: 30%;
-        width: 9px;
+        height: 40%;
+        /* width: 9px; */
         
     }  
 #firstcbcircle,
@@ -2370,14 +4027,17 @@
 #firstcbcircle-99,
 #firstcbcircle-100 
 {
-        width: 9px;
+        /* width: 9px; */
         position: absolute;
         /* top: 200px; */
         /* background-color: aquamarine; */
     }
-    @keyframes balls {
-        0%{top:10%}
-        100%{top:129%;
+
+
+
+@keyframes balls {
+        0%{top:20%}
+        100%{top:139%;
         opacity: 0.5;}
         
     }
