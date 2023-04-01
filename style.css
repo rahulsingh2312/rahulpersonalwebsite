@@ -4,15 +4,34 @@
     margin: 0%;
     background-color: black;
 }
+#hi{
+    position: absolute;
+    left: 3%;
+    top:23%;
+    font-size: 200%;
+    color: #ffc3f9;
+    background: none;
+
+}
+#dev{
+    position: absolute;
+    left: 3%;
+    top: 45%;
+    font-size: 200%;
+    color: #ffc3f9;
+    background: none;
+
+}
 #titleee {
     position: absolute;
     top:25%;
     left: 3%;
-    font-size: 700%;
+    font-size: 100px;
     background-image: none;
     background: none;
     color: rgb(255, 255, 255);
 }
+
 #titleee:hover{
     font-size: 800%;
     background-color: white;
@@ -4034,7 +4053,14 @@
     }
 
 
+#dev{
+    position: absolute;
+ top:42%;
 
+}
+#titleee{
+    font-size: 700%;
+}
 @keyframes balls {
         0%{top:20%}
         100%{top:139%;
@@ -4042,4 +4068,8 @@
         
     }
 }
-  
+ @media (max-width:511px) {
+    #dev{
+        top: 450px;
+    }
+ }
