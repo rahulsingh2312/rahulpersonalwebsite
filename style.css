@@ -1,8 +1,48 @@
 *{
-    color: white;
+    color: rgb(0, 0, 0);
     padding: 0%;
     margin: 0%;
-    background-color: black;
+    background-color: rgb(255, 247, 247);
+}
+::selection {
+    color: red;
+    background: rgb(254, 176, 255);
+    -webkit-text-fill-color: darkred;
+}
+@keyframes bgp {
+    0%{
+
+        background: linear-gradient(to right, rgb(121,31,162),rgb(103,58,183),rgb(244,143,177),rgb(123,31,162));
+        -webkit-background-clip:text;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    25%{
+        background: linear-gradient(to right, rgb(103,58,183),rgb(167, 244, 143),rgb(123,31,162)), rgb(121,31,162);
+        -webkit-background-clip:text;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    50%{
+        background: linear-gradient(to right, rgb(244,143,177),rgb(123,31,162)), rgb(162, 155, 31),rgb(103,58,183);
+        -webkit-background-clip:text;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    75%{
+        background: linear-gradient(to right, rgb(123,31,162)), rgb(121,31,162),rgb(103,58,183),rgb(215, 214, 214);
+        -webkit-background-clip:text;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+
+    }
+    100%{
+        background: linear-gradient(to right, rgb(31, 162, 151),rgb(103,58,183),rgb(244,143,177),rgb(123,31,162));
+        -webkit-background-clip:text;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    
 }
 #hi{
     position: absolute;
@@ -10,7 +50,12 @@
     top:23%;
     font-size: 200%;
     color: #ffc3f9;
-    background: none;
+    background: linear-gradient(to right, rgb(121,31,162),rgb(103,58,183),rgb(244,143,177),rgb(123,31,162));
+    -webkit-background-clip:text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: bgp 3s linear infinite;
+    z-index: 1;
 
 }
 #dev{
@@ -18,8 +63,13 @@
     left: 3%;
     top: 45%;
     font-size: 200%;
-    color: #ffc3f9;
+    /* color: #ffc3f9; */
     background: none;
+    background: linear-gradient(to right, rgb(121,31,162),rgb(103,58,183),rgb(244,143,177),rgb(123,31,162));
+    -webkit-background-clip:text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: bgp 3s forwards infinite;
 
 }
 #titleee {
@@ -29,7 +79,7 @@
     font-size: 100px;
     background-image: none;
     background: none;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 }
 
 #titleee:hover{
