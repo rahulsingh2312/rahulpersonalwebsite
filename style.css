@@ -266,9 +266,10 @@ background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 
     border: 2px solid #000000 ;
     /* padding: 5%; */
     padding:8%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
  
     /* width: 100%; */
-font-family:cursive;
+
 
 }
 #tabl{
