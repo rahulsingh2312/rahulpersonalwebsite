@@ -5,7 +5,7 @@
     /* background-color: rgb(255, 247, 247); */
 }
 html{
-    scroll-behavior:smooth
+    scroll-behavior:smooth;
 }
 ::selection {
     color: red;
@@ -266,10 +266,9 @@ background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 
     border: 2px solid #000000 ;
     /* padding: 5%; */
     padding:8%;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
  
     /* width: 100%; */
-
+font-family:Verdana, Geneva, Tahoma, sans-serif;
 
 }
 #tabl{
@@ -297,7 +296,7 @@ background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 
 }
 
 
-#expertise{
+#expertise {
     font-family: "Poppins",Sans-serif;
     font-size: 70px;
     font-weight: 540;
@@ -310,6 +309,21 @@ background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 
 margin-bottom: 120px;
    height: 30px;
 }
+#work{
+    font-family: "Poppins",Sans-serif;
+    font-size: 70px;
+    font-weight: 540;
+    line-height: 1.4em;
+    color: black;
+    display: flex;
+margin-top: 150px;
+margin-bottom: 20px;
+margin-left: 120px;
+   height: 30px;
+}
+#width{
+    width: 100%;
+}
 
 /* k */
 
@@ -318,12 +332,67 @@ margin-bottom: 120px;
     width: 100%;
 
 }
+#workone{
+    margin: 10%;
+    margin-right: 22%;
+    display: flex;
+    float: right;
+}
+#takeitleft{
+    display: flex;
+    margin-top: 10%;
+    justify-content: center;
+    align-items: centers;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+#describework1{
+    margin-left: 7%;
+margin-top: 2%;
+margin-bottom: 2%;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#abut{
+    display: flex;
+background-color:#8bc34a;
+   justify-content: center;
+   align-items: center;
+width: 20%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    padding: 20px;
+    margin-left: 20%;
+    margin-top: 30px;
+    border-radius:20%;
+
+    
+}
+#abut:hover{
+    background-color: rebeccapurple;
+    font-size: 35px;
+}
 @media (max-width: 768px) {
     #table, th, td{
 display: inline-block ;
-        width:100%;
+width: 100%;
 
 }
+#work , #workone{
+    margin-left: 20px;
+}
+#abut{
+    display: flex;
+background-color:#8bc34a;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    padding: 20px;
+    border-radius:20%;
+    margin-top: 0%;
+
+}
+
 }
 @media (min-width: 768px) {
     label{
@@ -336,6 +405,7 @@ display: inline-block ;
     font-family:cursive;
     
     }
+  
     #tabl{
         display: flex;
         align-items: center;
