@@ -87,7 +87,7 @@ else{
         workteone.style.color="black";
         var workteone1 = document.getElementById("describework1");
         workteone1.style.color="black";
-          myNav.style.backgroundColor="black";
+          myNav.style.backgroundColor="violet";
       } 
           
       else if(window.scrollY<=200&&window.scrollY>=100) {
@@ -170,7 +170,7 @@ if(window.scrollY>3100){
   };
   function touchcolor(){
     var y = event.touches[0].clientY;
-    console.log(y);
+    // console.log(y);
     if(y>1100){
     tbl1.style.backgroundColor="#c5f8c8";
     tbl3.style.backgroundColor="#f9989f";
@@ -181,16 +181,7 @@ if(window.scrollY>3100){
       tbl2.style.backgroundColor="white";
     }
     // 
-    if(y<1799){
-      bodyrjs.style.backgroundColor="white";
-      var workte = document.getElementById("work");
-      workte.style.color="black";
-      var workteone = document.getElementById("takeitleftmob");
-      workteone.style.color="black";
-      var workteone1 = document.getElementById("describework1");
-      workteone1.style.color="black";
-      bodyrjs.style.color="black";
-    }
+
     if(y>1800){
       bodyrjs.style.backgroundColor="black";
       var workte = document.getElementById("work");
@@ -203,14 +194,6 @@ if(window.scrollY>3100){
       tit.style.color="red";
 
 
-    }
-    if(y>2100){
-      bodyrjs.style.backgroundColor="#ECC9EE";
-      
-     
-    }
-    if(y>2350){
-      bodyrjs.style.backgroundColor="#EFBBCF";
     }
     
      }
